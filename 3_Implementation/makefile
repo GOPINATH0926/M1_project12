@@ -1,5 +1,5 @@
 # Name Of the Project
-PROJECT_NAME = LMS
+PROJECT_NAME = BMS
 
 #All Source code file
 SRC = main.c\
