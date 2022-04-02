@@ -10,6 +10,8 @@
 
 [![Valgrind](https://github.com/GOPINATH0926/M1_project12/actions/workflows/valgrind.yml/badge.svg)](https://github.com/GOPINATH0926/M1_project12/actions/workflows/valgrind.yml)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1bf8de00270f45728bdeadd06165c68b)](https://www.codacy.com/gh/GOPINATH0926/M1_project12/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GOPINATH0926/M1_project12&amp;utm_campaign=Badge_Grade)
+
 <a href="https://app.codiga.io/public/user/github/GOPINATH0926">
    <img src="https://api.codiga.io/public/badge/user/github/GOPINATH0926?style=light" alt="codiga badge" />
 </a>
